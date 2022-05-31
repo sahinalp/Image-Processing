@@ -14,6 +14,7 @@ This function takes the non-shifted image and the shift values and returns the s
 
 convert:
 This function takes the non-converted image and the convertion type and returns the converted image.
+
 1-RGB to HSI
 2-RGB to HSV
 3-RGB to YIQ
