@@ -16,10 +16,15 @@ convert:
 This function takes the non-converted image and the convertion type and returns the converted image.
 
 1-RGB to HSI
+
 2-RGB to HSV
+
 3-RGB to YIQ
+
 4-HSI to RGB
+
 5-HSV to RGB
+
 6-YIQ to RGB
 
 hist:
